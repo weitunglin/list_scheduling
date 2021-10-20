@@ -5,7 +5,7 @@ List Scheduling written in c++
 * cmake3.14+
 * gcc7+
 
-# Build BLIF parser
+# Build List Scheduling
 ```sh
 git clone https://github.com/weitunglin/list_scheduling.git
 cd list_scheduling
