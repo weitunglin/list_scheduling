@@ -1,5 +1,5 @@
 .model worstcase
-.inputs x0 y0 z0
+.inputs x0 z0
 .outputs out1 out2
 .names x0 a1
 0 1
@@ -52,6 +52,8 @@
 .names x0 y1
 0 1
 .names x0 z1
+0 1
+.names x0 y0
 0 1
 .names y0 z0 a2
 1- 1

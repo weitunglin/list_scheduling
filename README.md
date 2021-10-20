@@ -29,10 +29,10 @@ cmake --build build
 
 1. ML-RCS
 ```sh
-./build/list -l aoi_benchmark/aoi_worstcase.blif 1 1 1
+./build/list -l aoi_benchmark/aoi_worstcase_l.blif 1 1 1
 ```
 
 2. MR-LCS
 ```sh
-./build/list -r aoi_benchmark/aoi_worstcase.blif 2
+./build/list -r aoi_benchmark/aoi_worstcase_r.blif 28
 ```
